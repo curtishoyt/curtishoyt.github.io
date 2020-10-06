@@ -10,4 +10,11 @@ Learning is absorbing new information resulting in a destructive alteration to y
 
 Implementing the solution is the art of reducing complexity until the original problem vanishes - usually "I can't" gradually becomes "I can".
 
+The form of implementation depends on why you're programming in the first place:
+
+- For your colleagues
+- For a deadline
+- To learn
+- To impress other programmers
+
 The form of the problem is unimportant - it is simply an obstacle that must be overcome by way of thought.
