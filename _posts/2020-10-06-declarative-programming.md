@@ -5,6 +5,8 @@ date: "2020-10-06 09:00"
 description: Declarative Programming.
 ---
 
+A discussion of declarative programming.
+
 Declarative programming is coding without modifying non-local variables. This self-imposed limitation results in code that is:
 
 - Less performant: Imperative code is faster, as it is a superset of declarative code. However, this can matter less than expected in practice, as code that starts as declarative can often be mostly optimized by adding a comparatively small amount of imperative code
