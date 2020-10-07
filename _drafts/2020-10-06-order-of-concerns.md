@@ -8,9 +8,10 @@ description: Order of Optimization.
 A suggestion of priorities in optimization.
 
 - Correctness
-- Easily understood by other programmers
-- Minimizes code written
-- Sufficiently performant
+- Ease of comprehension by other programmers
+- Maintainability
+- Succinctness
+- Performance
 
 This is, however, only a starting point - these priorities should be driven by the context in which the code is written.
 
