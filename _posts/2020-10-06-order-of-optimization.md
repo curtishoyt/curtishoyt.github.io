@@ -7,11 +7,12 @@ description: Order of Optimization.
 
 A suggestion of priorities in optimization.
 
-- Correctness
-- Ease of comprehension by other programmers
-- Maintainability
-- Succinctness
-- Performance
+1. Correctness - the chance a piece of code does what it's expected to do.
+1. Coherence - minimizing the time it takes others to read your code.
+1. Maintainability - the development cost of a piece of code after it's committed.
+1. Brevity - the art of turning two lines of code into one.
+1. Performance - minimizing the resources used by a program without changing its behavior.
+1. Joy - the mood of the programmer who writes (or reads) a piece of code.
 
 This is, however, only a starting point - these priorities should be driven by the context in which the code is written.
 
