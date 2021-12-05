@@ -1,6 +1,9 @@
+h1 {
+  text-align: center;
+}
+
 ul {
   padding: 0;
-  text-align: center;
 }
 
 li {
@@ -9,7 +12,6 @@ li {
   :last-child {
     border-bottom: none;
   }
-  text-align: center;
 }
 
 .current {
