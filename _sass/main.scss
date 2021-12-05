@@ -9,7 +9,7 @@ ul {
 li {
   display: block;
   border-bottom: 1px solid lightgrey;
-  :last-child {
+  &:last-child {
     border-bottom: none;
   }
 }
