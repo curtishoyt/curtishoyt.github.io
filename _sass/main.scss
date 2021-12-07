@@ -6,7 +6,7 @@ ul {
   padding: 0;
 }
 
-li.post_list {
+ul.post_list > li {
   display: block;
   border-bottom: 1px solid lightgrey;
   &:last-child {
