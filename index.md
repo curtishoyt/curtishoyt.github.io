@@ -4,7 +4,7 @@ title: Blog
 ---
 <h1>Curt's Blog</h1>
 
-<ul>
+<ul class="post_list">
   {% for post in site.posts %}
   <li>
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
