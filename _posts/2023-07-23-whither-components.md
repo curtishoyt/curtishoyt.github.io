@@ -5,7 +5,7 @@ date: "2023-07-23 10:30"
 description: I don't know what this is yet, but it's about Components.
 ---
 
-I don't know what this Page is yet, but it's about Components.
+I don't know what this is yet, but it's about Components.
 
 I have a number of goals:
 1. Come up with a definition of "Component" that is all-encompassing, widely accepted, and succinct.
