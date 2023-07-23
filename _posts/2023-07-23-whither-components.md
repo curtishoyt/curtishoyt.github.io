@@ -39,11 +39,7 @@ There are, broadly speaking, two kinds of Components:
 1. Functional Components
 1. Class Components
 
-Functional Components are far easier to write, because introducing Classes and Object-Oriented Programming techniques multiplies complexity - with Pure Functions, you simply have to remember Input/Output, while Object methods add Side-Effects. However, OOP is also easier to understand, as it more accurately mirrors our model of the world around us.
-
-Two things are worth noting:
-1. There are many ways to make FP less abstract and more readable, and
-1. I don't care about any of them.
+Purely Functional Components are far easier to write, because all you have to think about is Input and Output. Introducing Classes and Object-Oriented Programming techniques multiplies complexity, because it introduces Side-Effects. However, OOP is also easier to understand, as it more accurately mirrors our model of the world around us.
 
 Here's an exhaustive list of Component-based Frameworks and a TODO List Component written in each.
 
