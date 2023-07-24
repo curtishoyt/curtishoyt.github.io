@@ -21,7 +21,18 @@ All Components should be:
 1. Composable
 1. Modular
 1. Focused
-1. Encapsulation...ed
+1. Consistent
+1. Responsive
+1. Encapsulated
+1. Accessible
+1. Localized
+1. Testable
+1. Performant
+1. Documented
+1. Extensible
+1. Compatible
+1. Maintainable
+1. Resilient
 
 Components tend to have the following goals:
 1. Represent a visible element of the page.
