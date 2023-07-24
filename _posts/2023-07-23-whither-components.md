@@ -17,22 +17,19 @@ I have a number of goals:
 ### Preamble
 
 All Components should be:
-1. Reusable
-1. Composable
-1. Modular
-1. Focused
-1. Consistent
-1. Responsive
-1. Encapsulated
-1. Accessible
-1. Localized
-1. Testable
-1. Performant
-1. Documented
-1. Extensible
-1. Compatible
-1. Maintainable
-1. Resilient
+1. **Reusable:** Components should be able to be utilized in multiple areas of a web application or across different applications without the need for major modifications. This property allows developers to create versatile components that promote code sharing, consistency, and efficiency in the development process. By reusing components, developers can save time and effort while maintaining a consistent user experience throughout the application.
+1. **Composable:** Components should be able to be combined and arranged with other components to build more complex user interfaces or functionalities. Composability enables developers to create applications by assembling smaller, reusable components like building blocks. This modular approach promotes code organization, reusability, and maintainability, making it easier for teams to collaborate and manage large-scale projects effectively.
+1. **Modular:** Components should be self-contained units that have as few dependencies as possible. Each Component represents a specific user interface element and can be developed independently. They can then be combined and arranged to build the overall web application. By adopting a modular approach, web app development becomes more organized, maintainable, and extensible.
+1. **Focused:** Components should be narrowly focused on a specific task or functionality. Each component should have a single responsibility and perform a well-defined function within the overall application. Focused components are easier to understand, maintain, and reuse, contributing to a cleaner and more efficient codebase.
+1. **Accessible:** Components must be designed in a way that ensures all users, including those with disabilities, can access and interact with the web application effectively. Accessible components follow established web accessibility guidelines, making the application usable by people with various impairments, such as visual, auditory, motor, or cognitive disabilities. By prioritizing accessibility, developers create a more inclusive and user-friendly experience, reaching a broader audience and complying with legal requirements and best practices.
+1. **Localized:** Components should support multiple languages and regional preferences. Localized components ensure that the web application can cater to users from different locations and cultural backgrounds by presenting content in their preferred language and formatting dates, times, and numeric values according to their region's conventions. By providing a localized experience, developers make the application more appealing and accessible to users worldwide.
+1. **Testable:** Components should be easily and effectively testable through automated testing processes. Testable components are designed to be modular, independent, and provide clear interfaces, allowing developers to create unit tests, integration tests, and other forms of automated testing to validate their functionality and behavior. By investing in testable components, developers can identify and fix issues early in the development process, ensuring a more reliable and stable application.
+1. **Performant:** Components should be optimized for high performance and efficiency. Performant components are designed to execute tasks quickly, minimize resource consumption, and provide a smooth user experience even under demanding conditions. By prioritizing performance, developers create web applications that load quickly, respond swiftly to user interactions, and deliver a seamless experience to users across various devices and network conditions.
+1. **Documented:** Components should provide comprehensive and clear documentation. Documentation serves as a reference guide, explaining how to use the component, its intended behavior, and its inputs and outputs. Well-documented components help developers understand, integrate, and maintain the codebase efficiently, promoting collaboration and reducing development time.
+1. **Extensible:** Components should facilitate easy expansion, modification, and enhancement without requiring significant changes to their core structure or codebase. Extensible components are designed with flexibility in mind, allowing developers to add new features or customize existing functionalities without disrupting the existing component's behavior. This promotes code reusability and future-proofing the application.
+1. **Compatible:** Components should work harmoniously and without issues across different browsers, devices, and platforms. Compatible components ensure a consistent user experience, regardless of the user's choice of browser, operating system, or device. By ensuring compatibility, developers reach a broader audience and create a seamless user experience.
+1. **Maintainable:** Components should be easy to understand, modify, and extend over time. Maintainable components have clear, organized, and well-documented code, promoting code longevity, and reducing the cost of maintenance and updates in the long run.
+1. **Resilient:** Components should gracefully handle errors, failures, and adverse conditions without crashing or negatively impacting the overall performance. Resilient components ensure a reliable user experience by recovering from unexpected situations and continuing to function effectively, even when facing challenging circumstances. By building resilient components, developers enhance the stability and availability of the web application.
 
 Components tend to have the following goals:
 1. Represent a visible element of the page.
