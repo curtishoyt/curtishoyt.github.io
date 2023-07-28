@@ -10,7 +10,7 @@ Here is roughly everything I've learned over 20 years of programming.
 ### General Advice
 - Constants (Immutable, Irreplaceable) > Caches (Immutable) > State (Mutable)
 - Data (No Side-effects, No Cost) > Pure functions (No Side-effects) > Procedures
-- Static analysis (Cannot Be Ignored) > Linting (Hard To Ignore) > Advice
+- Static analysis (Cannot Be Ignored) > Linting (Hard To Ignore) > Testing
 - Data models > Data structures > Algorithms
 - Correct > Clear > Concise > Fast
 - Consider scalability in as many dimensions as possible.
