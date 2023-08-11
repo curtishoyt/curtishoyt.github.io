@@ -2,10 +2,10 @@
 layout: post
 title: Why is OOP More Popular Than FP?
 date: "2023-08-11 13:30"
-description: Just look at human languages instead.
+description: Just look at human languages.
 ---
 
-Just look at human languages instead.
+Just look at human languages.
 
 There are lots of (S, V, O) and (S, O, V) human languages, a small number of (O, *, *) human languages, and absolutely no (V, *, *) languages. Thus, OOP languages (especially Java) tend to read like human languages: `Subject Verb Object = Foo.bar(baz)`
 
