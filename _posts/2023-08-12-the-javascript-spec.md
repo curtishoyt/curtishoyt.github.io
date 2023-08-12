@@ -10,7 +10,7 @@ I don't like the [ES262 Spec](https://tc39.es/ecma262/multipage/). So I made som
 ```
 JSProgram : Statement | Declaration
 Statement : Conditional | Expression
-Declaration: Variable | Function
+Declaration : Variable | Function
 Expression : Call | Literal
 ```
 
