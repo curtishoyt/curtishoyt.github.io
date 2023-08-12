@@ -9,13 +9,15 @@ Reimagining CSS
 
 I'm not a fan of CSS. I think there's too much redundancy and too many weird names. So here's my attempt to fix it.
 
-| Old | New | Properties |
-| ------------- | -- | -- |
-| Display | Layout | Container, Grid |
-| Box Model | Frame | Inset, Border, Style |
-| Font | Font | Color, Name, Height, Weight |
-| Background | Wallpaper | Color, Style |
-| Transition | Shift | Delay, Duration |
-| @media | Device | Width |
-| Overflow | Excess | Content, Text |
-| Visibility | Opacity |
+```
+| Old         | New       | Properties
+| ----------- | --------- | ----------
+| Display     | Layout    | Container, Grid
+| Box Model   | Frame     | Inset, Border, Style
+| Font        | Font      | Color, Name, Height, Weight
+| Background  | Wallpaper | Color, Style
+| Transition  | Shift     | Delay, Duration
+| @media      | Device    | Width
+| Overflow    | Excess    | Content, Text
+| Visibility  | Opacity   |
+```
