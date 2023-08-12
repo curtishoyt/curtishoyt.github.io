@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Javascript Specification
-date: "2023-08-11 15:00"
+date: "2023-08-12 15:00"
 description: The ES262 Spec makes my eyes bleed
 ---
 
