@@ -5,7 +5,7 @@ date: "2023-08-11 16:30"
 description: Reimagining CSS
 ---
 
-## Reimagining CSS
+Reimagining CSS
 
 I'm not a fan of CSS. I think there's too much redundancy and too many weird names. So here's my attempt to fix it.
 
