@@ -7,4 +7,4 @@ description: A whiteboard full of languages.
 
 A whiteboard full of languages.
 
-![Presented without comment](/curtishoyt.github.io/assets/images/whiteboard-languages.jpg).
+![Presented without comment](/assets/images/whiteboard-languages.jpg).
